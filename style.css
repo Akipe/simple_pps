@@ -17,7 +17,7 @@ body {
     justify-content: space-evenly;
     align-items: stretch;
     align-content: space-around;
-    gap: 20px 1rem;
+    gap: 3rem 4rem;
 
     list-style: none;
 }
